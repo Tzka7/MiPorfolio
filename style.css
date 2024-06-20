@@ -1,0 +1,15 @@
+
+p{
+    color: rgb(255, 255, 255);
+background-color: black;
+}
+h2{
+    font-size: 45px;
+    color: black;
+  
+}
+section{
+    border: 2px #000 solid;
+    margin: 40px;
+    padding: 20px;
+}
